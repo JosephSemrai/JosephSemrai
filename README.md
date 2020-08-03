@@ -10,5 +10,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JosephSemrai&show_icons=true&theme=dracula" />
 </a>
 <a href="https://josephsemrai.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSemrai" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSemrai&layout=compact" />
 </a>
