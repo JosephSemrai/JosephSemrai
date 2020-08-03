@@ -6,5 +6,9 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/josephsemrai/ "My LinkedIn")
 - 😄 Pronouns: he/him
 
-
-[![Joseph Semrai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephSemrai)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://josephsemrai.com">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JosephSemrai&show_icons=true&theme=dracula" />
+</a>
+<a href="https://josephsemrai.com">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSemrai" />
+</a>
