@@ -13,4 +13,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSemrai&layout=compact&theme=vue" />
 </a>
 
-|<a href="https://josephsemrai.com"><img align="left" src="https://github-readme-stats.vercel.app/api?username=JosephSemrai&theme=vue" /></a>|<a href="https://josephsemrai.com"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSemrai&layout=compact&theme=vue" /></a> |
+| Stats  | Languages |
+| ------------- | ------------- |
+| <a href="https://josephsemrai.com"><img align="left" src="https://github-readme-stats.vercel.app/api?username=JosephSemrai&theme=vue" /></a>  | <a href="https://josephsemrai.com"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSemrai&layout=compact&theme=vue" /></a>  |
