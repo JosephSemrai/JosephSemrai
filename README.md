@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 My preferred tech stacks are: MERN, PERN, and MEAN
-- 🌱 I’m currently learning about knowledge representation in natural language processing :)
+- 🔭 My preferred tech stacks are MERN, PERN, and MEAN.
+- 🌱 I’m currently working on Passable, a digital hall pass solution for K-12.
 - 💬 Talk to me about full-stack development, React Native, or any web technology.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/josephsemrai/ "My LinkedIn")
 - 😄 Pronouns: he/him
