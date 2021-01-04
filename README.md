@@ -4,9 +4,9 @@
   <h1 align="center">
     <b>Hello there, I'm <a href="https://github.com/JosephSemrai">@josephsemrai</a> 👋</b>
   </h1>
-  <h2 align="center">
+  <h4 align="center">
     <b>Pronouns: he/him</b>
-  </h2>
+  </h4>
   <p align="center">
     <samp>( "👨‍💻 Full Stack Engineer" | "☁️ Co-Founder @ Passable " )</samp>
   </p>
@@ -19,7 +19,9 @@
   </a>
 </p>
 
+<p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=josephsemrai.visitor-badge" />
+</p>
 
 -----
 <p align="center">
