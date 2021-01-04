@@ -1,13 +1,35 @@
-<h1 align="left">Hi 👋, I'm Joe!</h1>
+![](https://media-exp1.licdn.com/dms/image/C4E1BAQEvrGXFdpTAKw/company-background_10000/0/1601244621688?e=1609812000&v=beta&t=-RFeWggHxzqgFtZ7JnczSj-ubtm0kB9DbaK1V6f039s)
 
-- 🌱 I’m currently working on Passable, a digital hall pass solution for K-12.
-- 💬 Talk to me about full-stack development, React Native, or any web technology.
-- 😄 Pronouns: he/him
+<p>
+  <h1 align="center">
+    <b>Hello there, I'm <a href="https://github.com/JosephSemrai">@josephsemrai</a> 👋</b>
+  </h1>
+  <h2 align="center">
+    <b>Pronouns: he/him</b>
+  </h2>
+  <p align="center">
+    <samp>( "👨‍💻 Full Stack Engineer" | "☁️ Co-Founder @ Passable " )</samp>
+  </p>
+  I’m currently working on Passable, a digital hall pass solution for K-12.
+</p>
 
-| Stats  | Languages |
-| ------------- | ------------- |
-| <a href="https://josephsemrai.com"><img align="left" src="https://github-readme-stats.vercel.app/api?username=JosephSemrai&theme=vue&show_icons=true" /></a>  | <a href="https://josephsemrai.com"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSemrai&layout=compact&theme=vue" /></a>  |
-
-<h5>Connect with me 📫,</h5>
 <p align="center">
-<a href="https://www.linkedin.com/in/josephsemrai/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/JosephSemrai">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JosephSemrai&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
+  </a>
+</p>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=josephsemrai.visitor-badge" />
+
+-----
+<p align="center">
+  <a href="https://github.com/JosephSemrai">
+    <img src="https://img.shields.io/badge/github-JosephSemrai-211F1F?logo=github&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://josephsemrai.com">
+    <img src="https://img.shields.io/badge/website-JosephSemrai.com-1BC?logo=react&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/~joe">
+    <img src="https://img.shields.io/badge/linkedin-Joseph Semrai-0072B1?logo=linkedin&style=flat-square" />
+  </a>
+</p>
