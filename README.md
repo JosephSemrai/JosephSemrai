@@ -9,8 +9,8 @@
   </h4>
   <p align="center">
     <samp>( "👨‍💻 Full Stack Engineer" | "☁️ Co-Founder @ Passable " )</samp>
+    I’m currently working on Passable, a digital hall pass solution for K-12.
   </p>
-  I’m currently working on Passable, a digital hall pass solution for K-12.
 </p>
 
 <p align="center">
