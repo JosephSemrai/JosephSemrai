@@ -8,7 +8,7 @@
     <b>Pronouns: he/him</b>
   </h4>
   <p align="center">
-    <samp> I’m currently working on Passable, a digital hall pass solution for K-12. </samp>
+    <samp> please feel free to reach out using the contact links below. </samp>
   </p>
 </p>
 
@@ -18,9 +18,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=josephsemrai.visitor-badge" />
-</p>
+</p> -->
 
 -----
 <p align="center">
