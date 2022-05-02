@@ -2,13 +2,13 @@
 
 <p>
   <h1 align="center">
-    <b>Hello there, I'm <a href="https://github.com/JosephSemrai">@josephsemrai</a> 👋</b>
+    <b>hey! i'm <a href="https://github.com/JosephSemrai">@josephsemrai</a> 👋</b>
   </h1>
   <h4 align="center">
-    <b>Pronouns: he/him</b>
+    <b>i'm a software engineer focused on education technology.</b>
   </h4>
   <p align="center">
-    <samp> please feel free to reach out using the contact links below. </samp>
+    <samp> please feel free to reach out using the contact links below or via email at semrai@stanford.edu</samp>
   </p>
 </p>
 
