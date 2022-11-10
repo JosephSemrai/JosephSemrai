@@ -5,7 +5,8 @@
     <b>hey! i'm <a href="https://github.com/JosephSemrai">@josephsemrai</a> 👋</b>
   </h1>
   <h4 align="center">
-    <b>i'm a software engineer focused on education technology.</b>
+    <b>i'm a software engineer focused on education technology and generative ai.</b>
+    <b>currently building @ friday</b>
   </h4>
   <p align="center">
     <samp> please feel free to reach out using the contact links below or via email at semrai@stanford.edu</samp>
