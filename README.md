@@ -13,12 +13,12 @@
   </p>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/JosephSemrai">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JosephSemrai&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
   </a>
 </p>
-
+ -->
 -----
 <p align="center">
   <a href="https://josephsemrai.com">
