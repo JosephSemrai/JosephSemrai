@@ -16,12 +16,3 @@
   </a>
 </p>
  -->
------
-<p align="center">
-  <a href="https://josephsemrai.com">
-    <img src="https://img.shields.io/badge/website-JosephSemrai.com-1BC?logo=react&logoColor=white&style=flat-square" />
-  </a>
-  <a href="https://www.linkedin.com/in/~joe">
-    <img src="https://img.shields.io/badge/linkedin-Joseph Semrai-0072B1?logo=linkedin&style=flat-square" />
-  </a>
-</p>
