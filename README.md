@@ -1,15 +1,12 @@
 ![](https://media-exp1.licdn.com/dms/image/C4E1BAQEvrGXFdpTAKw/company-background_10000/0/1601244621688?e=1609812000&v=beta&t=-RFeWggHxzqgFtZ7JnczSj-ubtm0kB9DbaK1V6f039s)
 
 <p>
-  <h1 align="center">
-    <b>hey! i'm <a href="https://github.com/JosephSemrai">@josephsemrai</a> 👋</b>
-  </h1>
   <h4 align="center">
-    <b>i'm a software engineer focused on education technology and generative ai.</b>
+    <b>i like building things that i can see myself and other people using.</b>
     <b>currently building @ variance</b>
   </h4>
   <p align="center">
-    <samp> please feel free to reach out using the contact links below or via email at semrai@stanford.edu</samp>
+    <samp>you can reach me at semrai@stanford.edu</samp>
   </p>
 </p>
 
