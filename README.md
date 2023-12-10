@@ -3,7 +3,7 @@
 <p>
   <h4 align="center">
     <b>i like building things that i can see myself and other people using.</b>
-    <b>currently building @ variance</b>
+    <b>currently working on hci stuff</b>
   </h4>
   <p align="center">
     <samp>you can reach me at semrai@stanford.edu</samp>
